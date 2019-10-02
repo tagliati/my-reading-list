@@ -1,5 +1,6 @@
 import React from "react";
+import Title from "./styles";
 
 export default function NotFound() {
-  return <h1>404</h1>;
+  return <Title>404</Title>;
 }

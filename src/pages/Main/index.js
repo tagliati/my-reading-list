@@ -1,5 +1,6 @@
 import React from "react";
+import Title from "./styles.js";
 
 export default function Main() {
-  return <h1>Main list </h1>;
+  return <Title>Main list </Title>;
 }
