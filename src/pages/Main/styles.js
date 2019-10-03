@@ -15,6 +15,7 @@ export const ReadingList = styled.ul`
     background-color: #fff;
     border-radius: 5px;
     padding: 20px;
+    box-shadow: #000 5px 5px 10px;
   }
   img {
     align-self: center;
