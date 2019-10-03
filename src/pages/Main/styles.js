@@ -16,4 +16,8 @@ export const ReadingList = styled.ul`
     border-radius: 5px;
     padding: 20px;
   }
+  img {
+    align-self: center;
+    max-width: 250px;
+  }
 `;
